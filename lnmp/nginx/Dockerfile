@@ -4,7 +4,7 @@
 # https://github.com/addcn/docker-lnmp.git
 #
 
-FROM centos:centos7
+FROM hub.c.163.com/library/centos:centos7
 MAINTAINER dodo <lhuibo@gmail.com>
 
 ENV TZ "Asia/Shanghai"
